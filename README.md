@@ -1,1 +1,1 @@
-# aws-training-uoa1
+# aws-training-uoa
